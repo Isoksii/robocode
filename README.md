@@ -2,7 +2,7 @@
 
 ## my name is cat 
 
-![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.felinegrimacescale.com%2F&psig=AOvVaw1o28K5-TTYpUpHg-ApGUHz&ust=1705943529765000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODe-If97oMDFQAAAAAdAAAAABAD)
+![img](https://bestfriends.org/sites/default/files/styles/hero_mobile/public/hero-dash/Asana3808_Dashboard_Standard.jpg?h=ebad9ecf&itok=clevo33k)
 
 **i`m javascript developer**
 *There is example of my JS code*
